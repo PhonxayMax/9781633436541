@@ -10,9 +10,10 @@ A Jupyter notebook environment for AI engineering and prototyping.
 
 ### Installation
 
-1. Clone or navigate to this directory:
+1. Clone the repository:
 ```bash
-cd D:\AI-Engineer\prototyping\runtime-2025-12-05-a
+git clone https://github.com/PhonxayMax/runtime-2025-12-05-a.git
+cd runtime-2025-12-05-a
 ```
 
 2. Create virtual environment:
