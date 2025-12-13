@@ -2,3 +2,7 @@ pip
 jupyter
 notebook
 ipykernel
+dotenv
+langchain_openai
+langchain_community
+langchain
