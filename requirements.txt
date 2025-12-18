@@ -6,3 +6,12 @@ dotenv
 langchain_openai
 langchain_community
 langchain
+faiss-cpu
+rank_bm25
+
+html2text
+wikipedia
+# 9781633435919
+nltk
+
+chromadb
