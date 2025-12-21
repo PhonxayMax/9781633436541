@@ -15,3 +15,8 @@ wikipedia
 nltk
 
 chromadb
+langchain-chroma
+
+docx2txt
+pypdf
+unstructured
