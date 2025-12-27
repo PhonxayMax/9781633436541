@@ -20,3 +20,7 @@ langchain-chroma
 docx2txt
 pypdf
 unstructured
+
+scikit-learn
+
+pinecone
