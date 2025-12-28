@@ -24,3 +24,5 @@ unstructured
 scikit-learn
 
 pinecone
+
+tqdm
